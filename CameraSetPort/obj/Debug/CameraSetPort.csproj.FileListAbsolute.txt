@@ -1,0 +1,14 @@
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\bin\Debug\CameraSetPort.exe.config
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\bin\Debug\CameraSetPort.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\bin\Debug\CameraSetPort.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.FormStart.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.Properties.Resources.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.csproj.GenerateResource.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.csproj.CoreCompileInputs.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.FormSelectHead.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.csproj.CopyComplete
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraSetPort\CameraSetPort\obj\Debug\CameraSetPort.MiniForm.FormRePlaceLoad.resources
